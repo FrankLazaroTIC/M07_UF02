@@ -1,1 +1,0 @@
-<h1>Benvingut administrador. El teu email és {{$email}}</h1>
